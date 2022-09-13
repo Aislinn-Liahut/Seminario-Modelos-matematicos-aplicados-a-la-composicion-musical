@@ -262,7 +262,7 @@ def ejercicio16():
         print()
 
 def main(): 
-    ejercicio01
+    ejercicio01()
     #ejercicio02()
     #ejercicio03()
     #ejercicio04()
